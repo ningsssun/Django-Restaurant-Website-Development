@@ -1,1 +1,1 @@
-web gunicorn restaurant_menu.wsgi:application --log-file -
+web gunicorn Django-Restaurant-Website-Development/restaurant_menu.wsgi:application --log-file -
